@@ -1,0 +1,2 @@
+# first
+a simple project
